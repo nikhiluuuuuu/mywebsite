@@ -1,0 +1,32 @@
+
+h1{
+    text-align: center;
+}
+.contact{
+    border: 3px solid black;
+    border-radius: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+    background: linear-gradient(skyblue,gray);
+}
+
+input{
+    padding: 7px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin: 9px;
+}
+.submit button{
+    padding: 5px;
+    margin: 5px;
+    margin-bottom: 10px;
+    background-color: pink;
+    border-radius: 10px;
+    border: 3px solid;
+}
+
+button:hover{
+    background-color: black;
+    color: white;
+}
